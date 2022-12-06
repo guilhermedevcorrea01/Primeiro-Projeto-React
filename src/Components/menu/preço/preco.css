@@ -1,0 +1,17 @@
+.precotitle{
+    font-size: 2rem;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    color: rgba(0, 0, 0, 0.5);;
+    margin-left: 3%;
+}
+
+
+
+.containerpreco{
+    grid-area: preco;
+    margin-left: 4rem;
+    align-self: top;
+    margin-top: -36rem;
+    font-size: 1.5rem;
+}
